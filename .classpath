@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jdbc"/>
+	<classpathentry kind="src" path="Source Packages"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/commons-io.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/commons-net.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/helma.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/jetty.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/jetty-ajp.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/jetty-util.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/rhino.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/tagsoup.jar"/>
+	<classpathentry kind="lib" path="C:/Downloads/Downloads/Library XML-RPC dan MySQL/library XML-RPC/xmlrpc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
